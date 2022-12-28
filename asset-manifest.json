@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selectionSort/static/css/main.073c9b0a.css",
+    "main.js": "/selectionSort/static/js/main.4b186737.js",
+    "index.html": "/selectionSort/index.html",
+    "main.073c9b0a.css.map": "/selectionSort/static/css/main.073c9b0a.css.map",
+    "main.4b186737.js.map": "/selectionSort/static/js/main.4b186737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4b186737.js"
+  ]
+}
